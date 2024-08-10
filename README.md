@@ -1,5 +1,5 @@
 
-# Hey there, I'm Kat :wave: 👩‍💻
+# Hey there, I'm Kat <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!-- not sure if I need this gif
 <img src="https://github.com/user-attachments/assets/7e628eeb-7547-453f-8237-138678c2e75b"
