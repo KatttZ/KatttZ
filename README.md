@@ -1,5 +1,7 @@
 # Hey there, I'm Kat :wave: 👩‍💻
 
+<img src="https://github.com/user-attachments/assets/7e628eeb-7547-453f-8237-138678c2e75b"
+ />
 
 <p align="center"> 
   Visitor count<br>
