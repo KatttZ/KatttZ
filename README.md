@@ -23,5 +23,5 @@ Let's build something amazing together!
 
 ## Get in touch  :coffee:
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)]([https://www.linkedin.com/in/jamesgeorge007](https://www.linkedin.com/in/zheng-%EF%BC%88kat%EF%BC%89-zhao-5785ab149/))
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/zheng-%EF%BC%88kat%EF%BC%89-zhao-5785ab149/)
 
