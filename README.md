@@ -8,14 +8,14 @@
   <img src="https://profile-counter.glitch.me/KatttZ/count.svg" />
 </p>
 
-## About me
+## About me  ✨
 
 Hi there 👋, I am a full-stack software developer with a passion for creating user-friendly experiences. Outside of code, I enjoy photography and traveling. Let's build something amazing together!
 
-## Skills and Experience
--  💻 JS / HTML / CSS / SQL
+## Skills and Experience  💻 
+-  JS / HTML / CSS / SQL
 
 
-## Get in touch :coffee:
+## Get in touch  :coffee:
 
 - [LinkedIn] https://www.linkedin.com/in/zheng-%EF%BC%88kat%EF%BC%89-zhao-5785ab149/
