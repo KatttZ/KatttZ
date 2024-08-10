@@ -17,4 +17,4 @@ Hi there 👋, I am a full-stack software developer with a passion for creating 
 ## Get in touch :coffee:
 
 - [Personal Blog]
-- [LinkedIn]
+- [LinkedIn] https://www.linkedin.com/in/zheng-%EF%BC%88kat%EF%BC%89-zhao-5785ab149/
